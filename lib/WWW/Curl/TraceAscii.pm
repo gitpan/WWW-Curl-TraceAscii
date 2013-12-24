@@ -8,7 +8,7 @@ use WWW::Curl::Easy;
 use Time::HiRes qw(gettimeofday);
 
 use vars qw($VERSION);
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 =head1 NAME
 
@@ -97,6 +97,12 @@ sub import {
         }
     }
 }
+
+=head2 new
+
+Create a new curl object.
+
+=cut
 
 sub new {
     my $class = shift;

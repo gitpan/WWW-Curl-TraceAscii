@@ -3,8 +3,26 @@ Changes from 2012-12-24 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.01 at 2013-12-24 00:51:17 +0000
+version 0.02 at 2013-12-24 01:07:49 +0000
 -----------------------------------------
+
+  Change: 9c3065ffa8fe8ed4c272560859cb87e4f2d74c14
+  Author: root <root@ww1.test.cartmanager.visiongrp.com>
+  Date : 2013-12-23 18:07:29 +0000
+
+    Update for cpan 
+
+  Change: f99c2d61baff535027808f86eb2b5e4dcef517b4
+  Author: root <root@ww1.test.cartmanager.visiongrp.com>
+  Date : 2013-12-23 18:05:41 +0000
+
+    pod coverage 
+
+  Change: 4b38ee5187ad63500d95b8d9771919017c4675c9
+  Author: root <root@ww1.test.cartmanager.visiongrp.com>
+  Date : 2013-12-23 18:02:02 +0000
+
+    Add readme 
 
   Change: 8d5f25f3dfe230a0e98c83cd1616af8e8b9fedf7
   Author: root <root@ww1.test.cartmanager.visiongrp.com>

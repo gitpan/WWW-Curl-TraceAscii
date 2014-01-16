@@ -21,10 +21,11 @@ my %WriteMakefileArgs = (
   "NAME" => "WWW::Curl::TraceAscii",
   "PREREQ_PM" => {
     "Carp" => 0,
-    "Clone" => 0
+    "Clone" => 0,
+    "WWW::Curl::Easy" => 0
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.02",
+  "VERSION" => "0.03",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -33,7 +34,8 @@ my %WriteMakefileArgs = (
 
 my %FallbackPrereqs = (
   "Carp" => 0,
-  "Clone" => 0
+  "Clone" => 0,
+  "WWW::Curl::Easy" => 0
 );
 
 

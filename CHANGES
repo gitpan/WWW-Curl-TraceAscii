@@ -1,10 +1,42 @@
 ==================================================
-Changes from 2012-12-24 00:00:00 +0000 to present.
+Changes from 2013-01-16 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.02 at 2013-12-24 01:07:49 +0000
+version 0.03 at 2014-01-16 02:43:38 +0000
 -----------------------------------------
+
+  Change: 091786b0a88775a867c65659929bc84f1842f323
+  Author: root <root@ww1.test.cartmanager.visiongrp.com>
+  Date : 2014-01-15 19:39:34 +0000
+
+    Update to not check for a doctype. Google doesn't always send it. 
+
+  Change: b92b8f3b888739f3d7b1c9b51e58fa97bb685e25
+  Author: root <root@ww1.test.cartmanager.visiongrp.com>
+  Date : 2014-01-07 17:06:44 +0000
+
+    Helps if you pod the right method name 
+
+  Change: 45962b7327ccdb13c20ee4b6610adf7cbee982f7
+  Author: root <root@ww1.test.cartmanager.visiongrp.com>
+  Date : 2014-01-07 17:05:42 +0000
+
+    Move setopt below new, add pod 
+
+  Change: 081f2dfad0c35a0c19f80f3c39a549dbc3b26b0f
+  Author: root <root@ww1.test.cartmanager.visiongrp.com>
+  Date : 2014-01-07 17:02:24 +0000
+
+    Update prereqs to include WWW::Curl::Easy (duh) Change trace_headers
+    to return a pointer, similar to the other methods. Add trace_response
+    Update tests 
+
+  Change: ea2d9802c07923eefc874213b7141f582e0d9a9f
+  Author: root <root@ww1.test.cartmanager.visiongrp.com>
+  Date : 2013-12-23 18:11:48 +0000
+
+    oops version number on an ignore file lol 
 
   Change: 9c3065ffa8fe8ed4c272560859cb87e4f2d74c14
   Author: root <root@ww1.test.cartmanager.visiongrp.com>

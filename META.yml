@@ -15,4 +15,5 @@ name: WWW-Curl-TraceAscii
 requires:
   Carp: 0
   Clone: 0
-version: 0.02
+  WWW::Curl::Easy: 0
+version: 0.03

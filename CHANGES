@@ -1,10 +1,16 @@
 ==================================================
-Changes from 2013-05-05 00:00:00 +0000 to present.
+Changes from 2013-06-10 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.04 at 2014-05-05 17:44:08 +0000
+version 0.05 at 2014-06-10 16:20:36 +0000
 -----------------------------------------
+
+  Change: 2279a1c45ebad11ca09491812554cc7211f30216
+  Author: Jason Terry <oaxlin@cpan.org>
+  Date : 2014-06-10 10:20:11 +0000
+
+    Minor version bump to add minimum perl version 
 
   Change: 9dcef59cca3c38db45861a084f41403df11e7ff1
   Author: Jason Terry <jterry@jterry-mac.local>

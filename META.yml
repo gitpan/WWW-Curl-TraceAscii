@@ -16,4 +16,5 @@ requires:
   Carp: 0
   Clone: 0
   WWW::Curl::Easy: 0
-version: 0.04
+  perl: v5.8.8
+version: 0.05

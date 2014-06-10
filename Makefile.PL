@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-
+use 5.008008;
 
 use ExtUtils::MakeMaker 6.30;
 
@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
     "WWW::Curl::Easy" => 0
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.04",
+  "VERSION" => "0.05",
   "test" => {
     "TESTS" => "t/*.t"
   }
